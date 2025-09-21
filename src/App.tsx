@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from 'react';
 import CourseInput from "./components/CourseInput";
 import CourseList from "./components/CourseList";
 
